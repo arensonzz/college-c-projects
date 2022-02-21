@@ -1,5 +1,5 @@
 # Simple Tetris
-My freshman year semester project for Introduction to Computer Science course.
+My first year semester project for Introduction to Computer Science course.
 
 30.12.2019
 
