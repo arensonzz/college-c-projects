@@ -1,0 +1,5 @@
+1,Mary,Clark,Dr. Ogretim Uyesi
+2,Harry,Churchill,Ogretim Gorevlisi
+3,Austin,Ferguson,Prof. Dr.
+4,Sam,Quinn,Doc. Dr.
+5,Sebastian,Turner,Doc. Dr.
