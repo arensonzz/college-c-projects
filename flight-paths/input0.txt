@@ -1,0 +1,6 @@
+Istanbul Paris 3 20 200
+Istanbul NewYork 10 50 1000
+Paris NewYork 7 50 600
+Berlin Paris 0 50 100
+Berlin Istanbul 2 40 150
+NewYork Berlin 8 20 600
